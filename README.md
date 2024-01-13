@@ -13,6 +13,9 @@
 Currently learning Unreal Engine 5
 <br>
 Six-day Gamega Game Jam: https://laderlappenn.itch.io/grains-of-fire
+<br>
+Telegram: https://t.me/Laderlapen
+<br>
 
 Forgotten:
 VHDL, Verilog
