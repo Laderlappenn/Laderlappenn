@@ -10,7 +10,7 @@
 </div>
 <br>
 
-Currently learning Unreal Engine 5
+Currently learning Unreal Engine 5 and vim
 <br>
 Six-day Gamega Game Jam: https://laderlappenn.itch.io/grains-of-fire
 <br>
